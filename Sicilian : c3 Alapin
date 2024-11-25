@@ -1,0 +1,37 @@
+
+=============Play f6 to Neutralie the e5 Pawn==============
+
+1. e4 c5 2. c3 g6 3. d4 cxd4 4. cxd4 d5 5. e5 Nc6 6. Nc3 Bg7 7. Bb5 Nh6 8. Nge2
+O-O 9. O-O Nf5 10. Be3 f6 11. exf6 Bxf6 12. Qd2 Nxe3 13. Qxe3 Qd6 14. Rad1 Bg4
+15. h3 Bxe2 16. Bxe2 Rae8 17. Bb5 e5 18. dxe5 Rxe5 19. Qd3 Kg7 20. Ne4 Qe6 21.
+Nxf6 Qxf6 *
+
+
+==========Not playing Be4 and Calculating well, Look at Piece placement =============
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.11.25"]
+[Round "?"]
+[White "Igors301"]
+[Black "ISeth"]
+[Result "1-0"]
+[TimeControl "600"]
+[WhiteElo "2115"]
+[BlackElo "2003"]
+[Termination "Igors301 won by resignation"]
+[ECO "B22"]
+[EndTime "4:42:55 GMT+0000"]
+[Link "https://www.chess.com/game/live/126247777869"]
+
+1. e4 c5 2. c3 g6 3. d4 Bg7 4. Nf3 cxd4 5. cxd4 Nf6 6. Nc3 O-O 7. h3 d5 8. e5
+Ne4 9. Bd3 Nxc3 (9... Bf5 10. Qb3 Nc5 11. dxc5 Bxd3 12. Qxd5 Nc6 13. Qxd8 Rfxd8
+14. Bd2 Nb4 15. O-O-O) 10. bxc3 Nc6 11. O-O Bd7 12. Be3 Rc8 13. Rb1 b6 14. Qd2
+Na5 15. Rfc1 Nc4 16. Bxc4 Rxc4 17. Bh6 Qc8 18. Bxg7 Kxg7 19. Qg5 Bf5 (19... e6)
+20. Rb3 Qc7 21. g4 h6 (21... Be4 22. Nd2 Rxd4 23. Qf4 f6 (23... Ra4 24. a3 (24.
+f3 Qc5+ 25. Kh1 f5 26. fxe4 fxe4 27. Qh2 Rf2 28. Qg3 Rxd2 29. a3 Qf2 30. Qxf2
+Rxf2 31. Kg1 Rf3) 24... Kg8 25. f3 Bd3)) 22. Qe3 Be6 23. Nd2 Ra4 24. a3 a6 25.
+f4 Kh7 26. Rf1 Bd7 27. f5 gxf5 28. gxf5 Rg8+ 29. Kh1 Bb5 30. Rg1 Qd8 31. Nf3 Bc4
+32. Rxg8 Qxg8 33. Rxb6 Qg7 34. f6 Qg3 35. Ng5+ Qxg5 36. Qxg5 hxg5 37. fxe7 Rxa3
+38. e8=Q Ra1+ 39. Kg2 Bf1+ 40. Kf2 1-0
