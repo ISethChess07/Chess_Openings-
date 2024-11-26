@@ -100,7 +100,30 @@ Rg1# 0-1
 
 
 
+====================Play in the Center like Pawns =========================
 
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.11.26"]
+[Round "?"]
+[White "ISeth"]
+[Black "jamal7741"]
+[Result "1-0"]
+[TimeControl "600"]
+[WhiteElo "2020"]
+[BlackElo "2027"]
+[Termination "ISeth won by checkmate"]
+[Link "https://www.chess.com/game/live/126390560153"]
+
+1. c4 e5 2. Nc3 Bc5 3. g3 Nc6 4. Bg2 f5 5. d3 Nf6 6. Nf3 O-O 7. Bg5 d6 8. Nd5
+Rf7 9. O-O h6 10. Bxf6 gxf6 11. Qc1 (11. e3 f4 12. d4 e4 13. dxc5 exf3 14. Qxf3
+fxg3 15. fxg3) 11... Qf8 12. a3 a5 13. Rb1 e4 14. Nh4 Nd4 15. Qd1 c6 16. Nc3 a4
+17. e3 Nb3 18. dxe4 fxe4 19. Nxe4 Ra5 20. Qf3 f5 21. Nxc5 Rxc5 22. Rfd1 Be6 23.
+Ng6 Qg7 24. Nf4 Bxc4 25. Rxd6 Rd7 26. Rg6 Bd5 27. Rxg7+ Kxg7 28. Nxd5 Rcxd5 29.
+Qe2 Rd2 30. Qc4 Rd1+ 31. Rxd1 Rxd1+ 32. Bf1 Nd2 33. Qd4+ Kg6 34. Qd6+ Kg7 35.
+Qe7+ Kg6 36. Qe8+ Kg7 37. Qe5+ Kg6 38. Qd6+ Kg7 39. Qc7+ Kg6 40. Qxb7 Rxf1+ 41.
+Kg2 Rd1 42. Qxc6+ Kg5 43. h4+ Kh5 44. Qc2 Ra1 45. Qxf5# 1-0
 
 
 
