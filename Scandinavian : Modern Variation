@@ -26,3 +26,21 @@ Bxe5 Bd4 17. Bxd4 Qxd4 18. a3 Nc6 19. Bxd3 exd3 20. Qxd3 Qb6 21. Qd6 Kg7 22. c5
 Qb3 23. Qg3 Rc8 24. h4 g4 25. Rd6 Na5 26. Qe5 Nc4 27. Qxf6+ Kg8 28. Rd8+ Rxd8
 29. Qxd8+ Kg7 30. Qd4+ Kg8 31. Nd5 Nxa3 32. bxa3 Qxa3+ 33. Kd2 Qa2+ 34. Ke3 f5
 35. Nf6+ Kf7 36. Qd5+ 1-0
+
+
+
+=============e4,d5,e5=======================
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[Link "https://www.chess.com/explorer?moveList=e4+d5+e5+Bf5+d4+e6+h4+h5+Bd3+Bxd3+Qxd3+c5+c3+Nc6+Nf3+Qb6+dxc5+Bxc5+O-O+a5+Na3+Nh6+Bxh6+Rxh6+Nb5+Rg6+a4+Kf8+Rae1+Kg8+Ng5+Be7+Nxf7+Kxf7+Qf3++Kg8+Qxh5+Rh6+Qg4+Rf8+h5+Rf5+Nd6+Rfxh5+g3+Nxe5&ply=46"]
+
+1. e4 d5 2. e5 Bf5 3. d4 e6 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 c5 7. c3 Nc6 8. Nf3 Qb6
+9. dxc5 Bxc5 10. O-O a5 11. Na3 Nh6 12. Bxh6 Rxh6 13. Nb5 Rg6 14. a4 Kf8 15.
+Rae1 Kg8 16. Ng5 Be7 17. Nxf7 Kxf7 18. Qf3+ Kg8 19. Qxh5 Rh6 20. Qg4 Rf8 21. h5
+Rf5 22. Nd6 Rfxh5 23. g3 Nxe5 *
