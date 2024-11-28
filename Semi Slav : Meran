@@ -1,0 +1,22 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.11.28"]
+[Round "?"]
+[White "toilaDANG"]
+[Black "ISeth"]
+[Result "1-0"]
+[TimeControl "600"]
+[WhiteElo "2066"]
+[BlackElo "2034"]
+[Termination "toilaDANG won by resignation"]
+[Link "https://www.chess.com/game/live/126532757581"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+Bb7 9. O-O b4 10. Ne2 Be7 11. Ng3 O-O 12. e4 c5 13. Bc2 cxd4 14. Qxd4 Bc5 15.
+Qd3 g6 (15... Qb6 16. e5 Ba6 17. Qd1 Ng4 18. Qxd7 Rad8 19. Qa4 Bxf2+ 20. Kh1
+Bxg3 21. hxg3 Bxf1 22. Bf4 Bxg2+ 23. Kxg2 Qf2+ 24. Kh3 Qxf3) 16. Bg5 Qb6 17. Bb3
+Rac8 18. e5 Nd5 (18... Ng4 19. Qxd7 Rfd8 20. Bxd8 Rxd8 21. Qa4 Bc6 22. Qxc6 Qxc6
+23. h3 Nxf2 24. Rxf2 Rd3 25. Rf1 Rxf3 26. gxf3 Qxf3 27. Nh1 Qxh3 28. Re1 h5 29.
+Rc1 Bxf2+ 30. Nxf2 Qg3+ 31. Kf1 Qxe5) 19. Qd2 Qc7 20. Bxd5 Bxd5 21. Bf6 Bxf3
+(21... Nxf6 22. exf6 Rfd8 23. Qh6 Bf8 24. Qh4 Bxf3 25. gxf3 Qe5 26. b3 Rc3) 22.
+Qh6 Nxf6 23. exf6 1-0
