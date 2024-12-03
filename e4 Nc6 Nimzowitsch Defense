@@ -1,1 +1,16 @@
 
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[Link "https://www.chess.com/explorer?moveList=d4+d5+e3+Nf6+Bd3+c5+b3+Nc6+Bb2+e6+a3+cxd4+exd4+Bd6+Nf3+O-O+O-O+b6+Nbd2+Bb7+Ne5+Ne7+Qe2+Rc8+f4+Rc7+Rae1+Ne8+g4+f6+Rf3+Bc8+Qf2+fxe5+fxe5+Ng6+exd6+Nxd6+Rxf8++Nxf8+Nf3+Rf7+Qe3+Ng6+Bxg6+hxg6+Ng5+Rf6+Qh3+Nf7+Bc1+Qc7+Nh7+Rf4+Qg3+g5+Bxf4+Qxf4+Rf1+Qxd4++Qf2+Qxg4++Qg3+Qxg3++hxg3+e5+Rxf7+Kxf7+Nxg5++Kf6+Nf3&ply=31"]
+
+1. e4 Nc6 2. Nf3 e5 3. Bc4 Be7 4. d3 Nf6 5. O-O O-O 6. Re1 d6 7. a4 Na5 8. Ba2
+c5 9. c3 Nc6 10. Na3 h6 11. Bd2 a6 12. h3 Rb8 13. Nc2 Be6 14. Bxe6 fxe6 15. d4
+c4 16. Qe2 b5 17. axb5 axb5 18. d5 exd5 19. exd5 Na5 20. Nb4 Ra8 21. Nh4 Rf7 22.
+Ng6 Kh7 23. Nxe7 Rxe7 24. Ra3 Rc8 25. Rea1 Nb3 26. Rxb3 cxb3 27. Nc6 Rxc6 28.
+dxc6 Qb6 29. Qd3+ e4 30. Qxd6 Rd7 31. Qxf6 gxf6 32. cxd7 Qd6 33. Be3 Kg6 34. Ra7
+h5 35. h4 Kf5 36. Rb7 *
