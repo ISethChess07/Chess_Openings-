@@ -95,8 +95,25 @@ O-O Qc7 9. Re1 Bb7 10. Qf3 Bd6 $1 11. e5 Bf8 (11... Bxe5 12. Qh5 Bd6 13. Rxe6+ K
 Ne4 $4 Rxd1+ $1 25. Rxd1 Rc8 $9 26. Rd7 $4 1-0
 
 
+=======================Polgar played the game badly but why Knight a5 on move 9 is important to understand====================
 
 
+[White "Palac, Mladen"]
+[Black "Polgar, Judit"]
+[Result "1-0"]
+[WhiteElo "2559"]
+[BlackElo "2709"]
+
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 d6 6. Be3 a6 7. f4 Bd7 8. a4 $2
+Rc8 9. Nb3 Na5 10. Nd2 Ne7 $2 11. Qf3 Ng6 $6 12. Qf2 Nc6 $2 13. Bb6 Qf6 14. g3 $1 d5
+15. exd5 (15. e5 Qe7 16. Nb3 f6 17. Bc5 Qf7 18. exf6 gxf6 19. Bxf8 Kxf8 20. Bh3
+Kg7) 15... Nb4 16. Nde4 Qf5 17. dxe6 Bxe6 18. Bg2 Be7 19. h4 Rc4 (19... h5 20.
+O-O-O O-O 21. Bh3 Na2+ 22. Nxa2 Qxe4 23. Nc3 Rxc3 24. bxc3 Ba3+ 25. Kb1 Bxh3 26.
+Rxh3 Qxa4 27. Rd5 Qc4 28. Ra5 Qxc3 29. Rb5 (29. Rxa3 Qxa3)) 20. O-O-O O-O 21. h5
+Rfc8 22. hxg6 Qxg6 23. Rd4 Bf5 24. a5 R4c6 25. Rhd1 h5 26. R1d2 Qe6 27. Re2 Qg6
+28. Nc5 $3 Rxc5 29. Rxe7 Na2+ 30. Kd2 $1 Rb5 31. Nxb5 Rxc2+ 32. Ke1 Rxf2 33. Kxf2
+axb5 $6 34. Re8+ Kh7 35. Rdd8 Qf6 1-0
 
 
 
