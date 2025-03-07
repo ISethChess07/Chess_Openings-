@@ -1,0 +1,180 @@
+Taimanov
+
+1. https://www.chessgames.com/perl/chessgame?gid=1205924
+
+[Event "WYG18"]
+[Site "Oropesa del Mar ESP"]
+[Date "2001.10.24"]
+[EventDate "2001.10.06"]
+[Round "4"]
+[Result "0-1"]
+[White "Zhao Dindin"]
+[Black "Leonie Helm"]
+[ECO "B47"]
+[WhiteElo "2220"]
+[BlackElo "2138"]
+[PlyCount "60"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Qc7 5. Nc3 e6 6. g3 a6
+7. Bg2 Nf6 8. Nb3 d6 9. O-O Be7 10. a4 b6 11. f4 Bb7 12. Qe2
+O-O 13. Be3 Rab8 14. Kh1 Na5 15. Rad1 Nc4 16. Bc1 Ba8 17. g4
+Rfe8 18. g5 Nd7 19. Rd3 Bf8 20. Rh3 g6 21. Qf2 Bg7 22. Qh4 Nf8
+23. Nd1 b5 24. axb5 Rxb5 25. Nf2 Nb6 26. Ng4 Qxc2 27. f5 exf5
+28. Nf6+ Bxf6 29. gxf6 Bxe4 30. Rg3 Rxb3 0-1
+
+
+2. https://www.chessgames.com/perl/chessgame?gid=1189783
+
+[Event "21st Open"]
+[Site "Bratto ITA"]
+[Date "2001.08.23"]
+[EventDate "2001.08.22"]
+[Round "2"]
+[Result "0-1"]
+[White "Alfredo Ricci"]
+[Black "Alvise Zichichi"]
+[ECO "B47"]
+[WhiteElo "2088"]
+[BlackElo "2293"]
+[PlyCount "46"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be2 a6
+7. O-O b5 8. Nxc6 Qxc6 9. Bf3 Bb7 10. e5 Qc7 11. Bf4 Ne7
+12. Bg3 Nf5 13. Bxb7 Qxb7 14. Qd3 Rc8 15. Rac1 Rc4 16. Ne2 h5
+17. b3 Rc7 18. c4 h4 19. Bf4 h3 20. gxh3 Bc5 21. Bg3 Rxh3
+22. cxb5 Nh4 23. bxa6 Qg2# 0-1
+
+3. https://www.chessgames.com/perl/chessgame?gid=1188900
+
+[Event "Kavala op 10th"]
+[Site "Kavala GRE"]
+[Date "2001.08.21"]
+[EventDate "2001.08.21"]
+[Round "1"]
+[Result "0-1"]
+[White "Vasilios Alexandridis"]
+[Black "Igor Miladinovic"]
+[ECO "B47"]
+[WhiteElo "?"]
+[BlackElo "2496"]
+[PlyCount "44"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Qc7 5. Nc3 e6 6. Be2 a6
+7. O-O Nf6 8. a3 Nxd4 9. Qxd4 Bd6 10. g3 b5 11. Bf3 Bb7
+12. Qd3 Rc8 13. Re1 Be5 14. Bd2 h5 15. Bg2 h4 16. f4 Bd6
+17. b4 hxg3 18. hxg3 Ng4 19. Kf1 Rh2 20. Qe2 f5 21. Nd5 Qc4
+22. Ne3 Nxe3+ 0-1
+
+4. https://www.chessgames.com/perl/chessgame?gid=1188889
+
+[Event "TSIM"]
+[Site "Belgrade YUG"]
+[Date "2001.08.22"]
+[EventDate "2001.08.16"]
+[Round "6"]
+[Result "0-1"]
+[White "Marija Marcetic"]
+[Black "Igor Divljan"]
+[ECO "B47"]
+[WhiteElo "2259"]
+[BlackElo "2192"]
+[PlyCount "58"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be2 a6
+7. O-O Nf6 8. Kh1 Nxd4 9. Qxd4 Bc5 10. Qd3 b5 11. f4 h5 12. e5
+Ng4 13. Bf3 Bb7 14. Bxb7 Qxb7 15. Ne4 Be7 16. Bd2 h4 17. Rae1
+h3 18. Qf3 hxg2+ 19. Kxg2 Rxh2+ 20. Kg1 O-O-O 21. Qxg4 Rdh8
+22. b4 Qd5 23. Qf3 R8h3 24. Qd1 Bh4 25. Re2 Qd4+ 26. Nf2 Bxf2+
+27. Rexf2 Rh1+ 28. Kg2 R3h2+ 29. Kg3 Rxf2 0-1
+
+5. https://www.chessgames.com/perl/chessgame?gid=1322648
+
+[Event "EM/M/GT/A003"]
+[Site "ICCF Email"]
+[Date "1997.03.05"]
+[EventDate "1997.??.??"]
+[Round "?"]
+[Result "0-1"]
+[White "Anthony R Barnsley"]
+[Black "Soeren Peschardt"]
+[ECO "B47"]
+[WhiteElo "2445"]
+[BlackElo "2190"]
+[PlyCount "52"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Qc7 5.Nc3 e6 6.Be2 a6 7.O-O
+Nf6 8. Be3 Bb4 9.Na4 O-O 10.Nxc6 bxc6 11.Nb6 Rb8 12.Nxc8 Rfxc8
+13.Bxa6 Rd8 14. Bd3 Bd6 15.Kh1 Be5 16.c3 Rxb2 17.Qc1 Ng4 18.f4
+Nxe3 19.Qxb2 Bxf4 20.Qf2 Nxf1 21.Rxf1 e5 22.g3 Qd6 23.Be2 Bg5
+24.Bg4 Bf6 25.Rd1 Qc7 26.Rxd7 Rxd7 0-1
+
+6. https://www.chessgames.com/perl/chessgame?gid=1010863
+
+[Event "Ch Moscow, Moscow (Russia)"]
+[Site "Moscow RUS"]
+[Date "1999.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "0-1"]
+[White "Andrei Shchekachev"]
+[Black "Jaroslav Ulko"]
+[ECO "B47"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "60"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 Nc6 4. d4 cxd4 5. Nxd4 Qc7 6. Be2 a6
+7. O-O b5 8. Nxc6 dxc6 9. f4 Bb7 10. a4 Be7 11. Qe1 h5 12. Qg3
+b4 13. Nb1 Nf6 14. Nd2 O-O-O 15. e5 Qb6+ 16. Kh1 h4 17. Qh3
+Nh5 18. Nc4 Qc7 19. Kg1 g6 20. Be3 c5 21. c3 bxc3 22. bxc3 Be4
+23. a5 Qc6 24. Nd2 Bf5 25. Qf3 Qxf3 26. Rxf3 Kb7 27. Rf2 Ng7
+28. Nb3 Rc8 29. Bf3+ Ka7 30. Rd1 Rc7 0-1
+
+7. https://www.chessgames.com/perl/chessgame?gid=1300911
+
+[Event "Minsk op"]
+[Site "Minsk"]
+[Date "1996.??.??"]
+[EventDate "?"]
+[Round "4"]
+[Result "0-1"]
+[White "Georgy Anatolyevich Timoshenko"]
+[Black "Valerij Smirnov"]
+[ECO "B47"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "58"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.g3 a6 7.Bg2
+Nf6 8.O-O Bc5 9.Nxc6 dxc6 10.Na4 Ba7 11.c4 b5 12.e5 Nd7 13.Nc3
+b4 14.Ne4 Nxe5 15.Nd6+ Ke7 16.Ne4 Bb7 17.Qd2 Rhd8 18.Qg5+ Kf8
+19.Bf4 Bd4 20.Rad1 h6 21.Qh5 f5 22.Rd2 c5 23.Nxc5 Bxc5
+24.Rxd8+ Rxd8 25.Bxb7 Qxb7 26.Bxe5 Qe4 27.Bf4 Rd3 28.b3 Rf3
+29.Qh4 Bxf2+ 0-1
+
+8. https://www.chessgames.com/perl/chessgame?gid=1119992
+
+[Event "Oakham Young Masters"]
+[Site "Oakham ENG"]
+[Date "1992.03.26"]
+[EventDate "1992.03.24"]
+[Round "3"]
+[Result "0-1"]
+[White "Sergei Vladimirovich Rublevsky"]
+[Black "Alexey Shirov"]
+[ECO "B45"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "46"]
+
+1.e4 c5 2.Nf3 e6 3.Nc3 Nc6 4.d4 cxd4 5.Nxd4 Nf6 6.Nxc6 bxc6
+7.e5 Nd5 8.Ne4 Qa5+ 9.c3 Ba6 10.Bxa6 Qxa6 11.b3 f5 12.exf6
+Nxf6 13.Nd6+ Ke7 14.Nc4 d5 15.Ba3+ Ke8 16.Qe2 c5 17.Nd2 Qxa3
+18.Qxe6+ Be7 19.O-O c4 20.b4 Qa4 21.Rfe1 Qd7 22.Qe3 Kf7 23.Nf3
+Bd6 0-1
+
+9. https://www.chessgames.com/perl/chessgame?gid=2371914
+
+10. https://www.chessgames.com/perl/chessgame?gid=1346421
+
+
