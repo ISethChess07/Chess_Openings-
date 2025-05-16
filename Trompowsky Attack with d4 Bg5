@@ -5,3 +5,22 @@ https://www.chess.com/game/live/131739004881
 1.d4,Nf6 2 Bg5,d5 3. Nc3 e6 4. Nf3 Nbd7 5. Qd2 h6 6. Bf4 Bd6 7. e3 Ne4 8. Nxe4 dxe4 9. Ne5
 O-O 10. Be2 a5 11. O-O a4 12. c4 Nxe5 13. dxe5 Be7 14. Qc3 a3 15. b3 Qe8 16.
 Rad1 Bd7 17. Rd4 c5 18. Rd2 b6 19. Rfd1 Bc6 20. Bg3 Qb8 *
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Grandmaster"]
+[Black "ISeth"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppppppp/5n2/6B1/3P4/8/PPP1PPPP/RN1QKBNR b KQkq - 2 2"]
+[BlackElo "2073"]
+[WhiteElo "2600"]
+[Link "https://www.chess.com/practice/openings/d4-openings/e3e45c28-d397-11eb-a94e-69a3665ae494"]
+
+2... Ne4 3. Bf4 d5 4. e3 Nc6 5. Nd2 Bf5 6. Bb5 g5 7. Bg3 Bg7 8. Nxe4 Bxe4 9. h4
+Bxg2 10. Rh2 gxh4 11. Rxg2 hxg3 12. Rxg3 Bf6 13. Qh5 Qd6 14. O-O-O O-O-O 15. Nf3
+a6 16. Bxc6 Qxc6 17. Ne5 Bxe5 18. dxe5 Qe6 19. Rg7 f6 20. exf6 Qxf6 21. Rf7 Qe6
+22. Rxh7 Rxh7 23. Qxh7 Rf8 24. Qh4 Qf7 25. f4 *
